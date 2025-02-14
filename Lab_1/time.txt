@@ -1,0 +1,9 @@
+The size: 100 x 120	Total time: 0 microseconds
+The size: 225 x 270	Total time: 0 microseconds
+The size: 380 x 400	Total time: 3 microseconds
+The size: 500 x 600	Total time: 7 microseconds
+The size: 680 x 700	Total time: 17 microseconds
+The size: 850 x 870	Total time: 35 microseconds
+The size: 1000 x 1200	Total time: 80 microseconds
+The size: 1200 x 1250	Total time: 104 microseconds
+The size: 1400 x 1470	Total time: 226 microseconds
