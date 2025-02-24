@@ -1,0 +1,9 @@
+The size 100	 the result matched
+The size: 225	 the result matched
+The size: 380	 the result matched
+The size: 500	 the result matched
+The size: 680	 the result matched
+The size: 850	 the result matched
+The size: 1000	 the result matched
+The size: 1200	 the result matched
+The size: 1400	 the result matched
