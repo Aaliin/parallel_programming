@@ -1,0 +1,12 @@
+The size: 100 x 200	Total time: 0.017002 seconds
+The size: 200 x 300	Total time: 0.070546 seconds
+The size: 300 x 400	Total time: 0.219552 seconds
+The size: 400 x 500	Total time: 0.400911 seconds
+The size: 500 x 600	Total time: 0.702495 seconds
+The size: 600 x 700	Total time: 1.34561 seconds
+The size: 700 x 800	Total time: 1.9798 seconds
+The size: 800 x 900	Total time: 2.81849 seconds
+The size: 900 x 1000	Total time: 3.79513 seconds
+The size: 1300 x 1500	Total time: 11.9238 seconds
+The size: 1600 x 1800	Total time: 21.2545 seconds
+The size: 1900 x 2100	Total time: 34.8325 seconds
